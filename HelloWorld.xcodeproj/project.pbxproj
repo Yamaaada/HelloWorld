@@ -19,6 +19,7 @@
 		6280CE6017D9B66400E2E070 /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6280CE5E17D9B66400E2E070 /* MainStoryboard_iPhone.storyboard */; };
 		6280CE6317D9B66400E2E070 /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6280CE6117D9B66400E2E070 /* MainStoryboard_iPad.storyboard */; };
 		6280CE6617D9B66400E2E070 /* COINSViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6280CE6517D9B66400E2E070 /* COINSViewController.m */; };
+		62D2B5E217E155730020431C /* IMG_1220.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 62D2B5E117E155730020431C /* IMG_1220.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		6280CE6217D9B66400E2E070 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
 		6280CE6417D9B66400E2E070 /* COINSViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = COINSViewController.h; sourceTree = "<group>"; };
 		6280CE6517D9B66400E2E070 /* COINSViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = COINSViewController.m; sourceTree = "<group>"; };
+		62D2B5E117E155730020431C /* IMG_1220.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_1220.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		6280CE3A17D9B66400E2E070 = {
 			isa = PBXGroup;
 			children = (
+				62D2B5E117E155730020431C /* IMG_1220.JPG */,
 				6280CE4C17D9B66400E2E070 /* HelloWorld */,
 				6280CE4517D9B66400E2E070 /* Frameworks */,
 				6280CE4417D9B66400E2E070 /* Products */,
@@ -168,6 +171,7 @@
 				6280CE5D17D9B66400E2E070 /* Default-568h@2x.png in Resources */,
 				6280CE6017D9B66400E2E070 /* MainStoryboard_iPhone.storyboard in Resources */,
 				6280CE6317D9B66400E2E070 /* MainStoryboard_iPad.storyboard in Resources */,
+				62D2B5E217E155730020431C /* IMG_1220.JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -313,6 +317,7 @@
 				6280CE6B17D9B66400E2E070 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
